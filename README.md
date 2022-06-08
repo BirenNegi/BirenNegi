@@ -3,8 +3,7 @@
          height="45"
          width="45" />, I'm Birendra Negi, working As DevOps
 </h1>
-     Currently working on on some cloud automation project
-     I loved automating infrastructure
+
 
          
 <!--
